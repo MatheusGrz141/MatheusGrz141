@@ -13,11 +13,7 @@
  
   </div>
  <div style="display:flex">  
-  <h3>🧙‍♂️ Others Skills:</h3>
-
-    
-  ### ⚡ Fun fact:
-     I totally changed my life and now I am looking for the best of myself in all aspects.
+ 
   <div>
   <a href="https://github.com/MatheusGrz141">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGrz141&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
