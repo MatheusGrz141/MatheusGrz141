@@ -1,8 +1,8 @@
  # Matheus Grzibovski Vieira
   
   ### Front-End Developer > Becoming Full-Stack <br>
-  <img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Fullstack!" >
-  <img alt="On-A-Journey-To-Be-A-FullStack" src="https://media0.giphy.com/media/n8Pg2AtbkAcDP04JuH/200w.webp" >
+  <img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com/?lines=A+Journey+to+success!" >
+
   <div style="display:flex">
   <h3>👨‍💻 Hard Skills: </h3>
   
@@ -10,6 +10,12 @@
   <img alt="jg-nest" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img alt="jg-mysql" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img alt="jg-java" align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
+  <img alt="jg-javaScript" align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  
+  <img alt="html" align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  
+
+
+
+
 
  
   </div>
