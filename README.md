@@ -2,6 +2,7 @@
   
   ### Front-End Developer > Becoming Full-Stack <br>
   <img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Fullstack!" >
+  <img alt="On-A-Journey-To-Be-A-FullStack" src="https://media0.giphy.com/media/n8Pg2AtbkAcDP04JuH/200w.webp" >
   <div style="display:flex">
   <h3>👨‍💻 Hard Skills: </h3>
   
@@ -12,14 +13,14 @@
 
  
   </div>
- 
+ <br>
  
   <div>
   <a href="https://github.com/MatheusGrz141">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGrz141&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGrz141&layout=compact&langs_count=16&theme=aura"/>  
   </div>    
-    
+    </br>
 <div> 
    <a href="https://t.me/MatheusGrz141" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/matheusflauta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank"></a>
