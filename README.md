@@ -4,7 +4,7 @@
   <img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Fullstack!" >
   <div style="display:flex">
   <h3>👨‍💻 Hard Skills: </h3>
-    
+  
   <img alt="jg-vue" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img alt="jg-nest" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img alt="jg-mysql" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -12,7 +12,7 @@
 
  
   </div>
- <div style="display:flex">  
+ 
  
   <div>
   <a href="https://github.com/MatheusGrz141">
