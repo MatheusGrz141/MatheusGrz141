@@ -40,11 +40,9 @@ Full Stack Developer focused on scalable web applications, real-time systems and
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGrz141&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGrz141&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusGrz141&theme=github-dark"/>
+</p>
 
 ---
 
